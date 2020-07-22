@@ -1,1 +1,1 @@
-This repo is make to upload all the handsons for git and springboot.
+This repo is made to upload all the handsons for git and springboot.
