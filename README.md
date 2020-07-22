@@ -1,3 +1,1 @@
-# devops-bootcamp2
-
-Readme for devops bootcamp 2.
+This repo is make to upload all the handsons for git and springboot.
